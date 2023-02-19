@@ -14,7 +14,7 @@ Installation
 Clone the repository to your local machine:
 bash
 
-git clone https://github.com/username/email-extractor.git
+git clone https://github.com/gLiNtAlpHa/emailextractor.git
 Navigate to the project directory:
 bash
 
